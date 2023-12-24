@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "*.excalidraw": "json",
-        "*.excalidrawlib": "json",
-        "*.gcode": "gcode",
-        "*.md": "markdown",
-        "stm32f10x.h": "c"
-    }
-}
